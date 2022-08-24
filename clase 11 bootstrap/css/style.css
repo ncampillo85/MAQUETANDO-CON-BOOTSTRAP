@@ -1,0 +1,45 @@
+.fondoColor{
+    background-color: rgb(158, 119, 68) !important;
+}
+.btn-card{
+    background-color: green;
+    color: white;
+}
+
+.card-body{
+ background-color: beige;
+ width: 75rem;
+}
+.container-fluid{
+    width:75rem;
+
+}
+.fs-2{
+padding: 0;
+margin: 0;
+font-weight: bolder
+}
+.fs-3{
+    font-weight: bolder 
+}
+.navbar-expand-lg{
+    flex: content;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
+.h1{
+    font-weight: bolder
+
+}
+
+.card-img{
+    width:75rem;
+}
+
+.grid-boostrap{
+    background-color: burlywood;
+}
+.grid-boostrap div{
+    border: 1px solid black;
+}
+
